@@ -9,51 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PokemonMvc
 build_property.RootNamespace = PokemonMvc
-build_property.ProjectDir = D:\ETEC\DS\ETEC-DS-PokemonFRONT\
+build_property.ProjectDir = D:\2DS_Catarine_Samuel\DS\RpgMvc - Copia\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ETEC\DS\ETEC-DS-PokemonFRONT
+build_property.MSBuildProjectDirectory = D:\2DS_Catarine_Samuel\DS\RpgMvc - Copia
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Home/Index.cshtml]
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Home/Privacy.cshtml]
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Shared/Error.cshtml]
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/Pokemon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9rZW1vblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Shared/_LoginPartialRpg.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWxScGcuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Usuarios/AutenticarUsuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQXV0ZW50aWNhclVzdWFyaW8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Usuarios/CadastrarUsuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ2FkYXN0cmFyVXN1YXJpby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/_ViewImports.cshtml]
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/_ViewStart.cshtml]
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ETEC/DS/ETEC-DS-PokemonFRONT/Views/Shared/_Layout.cshtml]
+[D:/2DS_Catarine_Samuel/DS/RpgMvc - Copia/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qlzdcyy23g

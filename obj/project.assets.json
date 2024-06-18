@@ -238,28 +238,27 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 8.0.5",
-      "Newtonsoft.Json >= 13.0.3"
+      "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 8.0.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mukab\\.nuget\\packages\\": {},
+    "C:\\Users\\etechas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ETEC\\DS\\ETEC-DS-PokemonFRONT\\PokemonMvc.csproj",
+      "projectUniqueName": "D:\\2DS_Catarine_Samuel\\DS\\RpgMvc - Copia\\PokemonMvc.csproj",
       "projectName": "PokemonMvc",
-      "projectPath": "D:\\ETEC\\DS\\ETEC-DS-PokemonFRONT\\PokemonMvc.csproj",
-      "packagesPath": "C:\\Users\\mukab\\.nuget\\packages\\",
-      "outputPath": "D:\\ETEC\\DS\\ETEC-DS-PokemonFRONT\\obj\\",
+      "projectPath": "D:\\2DS_Catarine_Samuel\\DS\\RpgMvc - Copia\\PokemonMvc.csproj",
+      "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
+      "outputPath": "D:\\2DS_Catarine_Samuel\\DS\\RpgMvc - Copia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mukab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\etechas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -281,11 +280,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -295,10 +289,6 @@
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
             "target": "Package",
             "version": "[8.0.5, )"
-          },
-          "Newtonsoft.Json": {
-            "target": "Package",
-            "version": "[13.0.3, )"
           }
         },
         "imports": [
@@ -320,7 +310,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
