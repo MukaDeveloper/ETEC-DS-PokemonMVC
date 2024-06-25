@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xQA3HX73d/W3T9jMMkf/lwlDU4ALMyhaNJVv8/dBGKP3nINiddLqoVdT0+8WiZd4/gZ51JR1K6gbmRWZsiQMpw==",
+  "dgSpecHash": "dZs/zx28Emz+a7Yo6+Rb8sS0wWLCsAmm6wXyUe9IFB3+B/AZZSrClGrj0qva4nYvJ02Oevq9yoDvnrB1Xz2new==",
   "success": true,
-  "projectFilePath": "D:\\2DS_Catarine_Samuel\\DS\\RpgMvc - Copia\\PokemonMvc.csproj",
+  "projectFilePath": "D:\\2DS_Catarine_Samuel\\DS\\ETEC-DS-PokemonMVC\\PokemonMvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.5\\microsoft.aspnetcore.jsonpatch.8.0.5.nupkg.sha512",
     "C:\\Users\\etechas\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\8.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.8.0.5.nupkg.sha512",

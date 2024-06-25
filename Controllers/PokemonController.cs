@@ -27,9 +27,9 @@ namespace PokemonMvc.Controllers
                     return View(listaPokemon);
                 }
                 else
-                    throw new System.Exception(serialized);
+                    throw new Exception(serialized);
             }
-            catch (System.Exception ex)
+            catch (Exception ex)
             {
                 TempData["MensagemErro"] = ex.Message;
                 return RedirectToAction("Index", "Home");
